@@ -1,0 +1,9 @@
+{
+  "name": "タロットクイズ 生徒さん専用",
+  "short_name": "タロットクイズ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffbea",
+  "theme_color": "#f7d64a",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
